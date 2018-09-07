@@ -1,4 +1,4 @@
-#r0k-u
+# r0k-u
 
 Fiddling around with the Roku api, wanted to create some automation. Utilizing 
 [jcarbaugh/python-roku](https://github.com/jcarbaugh/python-roku) library as well as making some requests to Roku's API.  
@@ -10,7 +10,7 @@ children of the night. As well an extremely basic way to put both youtube a vide
 ***Please excuse my OOP, still a novice in implementing it, any notes/commits in making it more 'Pythonic' would be 
 greatly appreciated***
 
-###Getting Started:
+### Getting Started:
 > - Just run main.py
 
 ### Prerequisites:
